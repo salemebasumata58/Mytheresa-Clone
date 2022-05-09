@@ -1,0 +1,16 @@
+.login_reg{
+    width:40vw;
+    height: 7vh;
+    margin: 5px;
+    border: 2px light gray;
+}
+.button{
+    width:10vw;
+    height: 5vh;
+    color: white;
+    background-color: black;
+    cursor: pointer;
+}
+p{
+    color: #787775;
+}

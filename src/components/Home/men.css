@@ -1,0 +1,148 @@
+* {
+  font-family: Futura-Medium, Century Gothic, Gill Sans, Helvetica, Arial,
+    sans-serif;
+    text-align: center;
+}
+.banner {
+  max-width: 100%;
+  display: block;
+  width: 100%;
+  cursor: pointer;
+  text-align: center;
+}
+/* h1 tag for "new arrivals" */
+.banner > h1 {
+  color: black;
+  margin-top: 6%;
+  line-height: 1.3em;
+  font-size: 32px;
+  font-weight: 400;
+}
+.banner > h1:hover {
+  color: black;
+  -webkit-transition: none !important;
+  -moz-transition: none !important;
+  -o-transition: none !important ;
+  transition: none !important;
+  cursor: auto;
+}
+
+/* Slide Properties */
+.swiper > slide {
+  height: 50px;
+  gap: 25px;
+}
+.swiper {
+  margin: auto;
+  width: 500px;
+  margin-top: -12%;
+  margin-bottom: -10%;
+}
+
+/* Dual Images - descriptive once's */
+.left1 > p {
+  font-size: 16px;
+  color: white;
+  margin-left: 100px;
+  text-align: left;
+}
+.dual-imge {
+  display: flex;
+  cursor: pointer;
+  margin: auto;
+  justify-content: center;
+  /* border: 3px solid red; */
+  width: 90%;
+}
+.left1 {
+  background-color: black;
+  color: white;
+  width: 49%;
+}
+.dual-imge > .left1 {
+  padding-top: 10%;
+}
+.dual-imge > img {
+  width: 52%;
+  height: 650px;
+}
+.dual-imge > .left1 > h1 {
+  text-align: left;
+  margin-left: 100px;
+  flex: 100%;
+  margin-bottom: 20px;
+  padding: 0;
+  text-align: left;
+  font-size: 54px;
+  line-height: 65px;
+  margin-top: 25px;
+}
+h1 {
+  transition: all 0.5s ease;
+  color: white;
+}
+h1:hover {
+  color: grey;
+}
+.btn > button {
+  /* border: 1px solid red; */
+  background-color: black;
+  color: white;
+  /* margin-top: -180px; */
+  font-size: 14px;
+  letter-spacing: 0.8px;
+  margin-bottom: 55px;
+  width: 125px;
+  padding: 8px;
+  transition: all 0.5s ease;
+  text-transform: uppercase;
+}
+/* Buttons */
+.left1 > button {
+  border-color: #757575;
+  width: 120px;
+  padding: 15px 18px;
+  position: absolute;
+  color: black;
+  background-color: #ffffff;
+  transition: all 0.5s ease;
+  font-size: 15px;
+  letter-spacing: 1.2px;
+  line-height: 17px;
+  text-transform: uppercase;
+  width: auto;
+}
+button:hover {
+  background-color: #757575;
+  color: white;
+}
+.text_below {
+  width: 80%;
+  margin: auto;
+  /* border: 1px solid red; */
+}
+
+.text_below > h2 {
+  text-align: center;
+  font-size: 15px;
+  text-transform: uppercase;
+  font-weight: 400;
+  letter-spacing: 0.8px;
+  color: #000;
+}
+.text_below > p {
+  letter-spacing: 0.8px;
+  color: #000;
+  font-size: 12px;
+  line-height: 16px;
+  text-align: left;
+}
+.exp_quality {
+  display: flex;
+  text-align: left;
+  letter-spacing: 0.8px;
+  color: #000;
+  font-size: 12px;
+  line-height: 16px;
+  text-align: left;
+}

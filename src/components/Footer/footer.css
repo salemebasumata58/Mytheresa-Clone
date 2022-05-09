@@ -1,0 +1,105 @@
+.service-logo {
+  display: flex;
+  margin: auto;
+  /* border: 1px solid green; */
+  height: 65px;
+  width: 350px;
+  justify-content: center;
+  cursor: pointer;
+}
+.service-logo > img {
+  text-align: center;
+  /* border: 2px solid red; */
+}
+
+/* Footer */
+.service {
+  display: flex;
+  text-align: left;
+  width: 82%;
+  margin: auto;
+  letter-spacing: 0.8px;
+  margin-bottom: -5%;
+  /* border: 1px solid red; */
+}
+.service_1 {
+  width: 310px;
+}
+.service_1 > div > p:first-child {
+  letter-spacing: 0.8px;
+  transition: color 0.4s ease-out;
+  background-color: transparent;
+}
+.service_1 > div > p:last-child {
+  color: #757575;
+}
+.service > div > h3 {
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  text-decoration: none;
+  background-color: transparent;
+  transition: color 0.4s ease-out;
+  font-weight: 400;
+  font-size: 15px;
+}
+.service > div .service_1 > div > p {
+  /* padding: 4px 0; */
+  text-decoration: none;
+  background-color: transparent;
+  transition: color 0.4s ease-out;
+  font-size: 14px;
+  letter-spacing: 0.8px;
+}
+.service > p {
+  font-size: 14px;
+  letter-spacing: 0.8px;
+}
+.second-div {
+  width: 85%;
+  float: left;
+  margin-right: 5.2631578947%;
+  /* border: 1px solid green; */
+}
+.second-div > p {
+  margin-top: 4px;
+  color: #757575;
+  font-size: 14px;
+  letter-spacing: 0.8px;
+  font-family: arial;
+}
+.second-div > p:hover {
+  transition: color 0.4s ease-out;
+  color: #000000;
+  cursor: pointer;
+}
+.input_bar {
+  /* width: 380x; */
+  display: flex;
+}
+.input_bar > input:first-child {
+  width: 280px;
+}
+.input_bar > input:last-child {
+  width: 80px;
+}
+.policy {
+  display: inline-block;
+  color: #757575;
+}
+.policy > p {
+  font-size: 12px;
+  letter-spacing: 0.8px;
+  line-height: 1.5em;
+  margin-bottom: 0;
+  margin-top: 10px;
+}
+.policy {
+  display: flex;
+}
+.policy > span > input {
+  height: 5px;
+  width: 5px;
+}
+.emailSignUp {
+  margin-right: 0;
+}

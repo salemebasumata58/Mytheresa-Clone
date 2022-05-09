@@ -1,0 +1,38 @@
+
+.dropd{
+    /* border: 1px solid red; */
+    width: 100%;
+}
+.nav{
+    display:flex;
+    font-size: smaller;
+    justify-content: flex-start;
+    justify-content: space-around;
+    /* border: 1px solid red; */
+    padding-top: 10px;
+    margin-top: 5px;
+}
+.content{
+    /* border: 1px solid gainsboro; */
+    background-color: white;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+
+
+}
+.content>div{
+    /* border: 1px solid gold; */
+    text-decoration: none;
+}
+.content>div a{
+    align-self:flex-start;
+    text-decoration: none;
+    margin-top: -1px;
+
+
+}
+.content>div img{
+    width: 100%;
+    height:80%;
+}
+

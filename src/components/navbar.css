@@ -1,0 +1,131 @@
+.header {
+  background-color: rgb(244, 244, 244);
+  display: flex;
+  justify-content: space-between;
+  flex: 1;
+  padding-top: 8px;
+  position: relative;
+  align-items: center;
+  width: 95%;
+  margin: auto;
+  text-align: center;
+}
+.menu {
+  /* background-color: aliceblue; */
+  display: flex;
+  flex: 1;
+  justify-content: flex-start;
+  width: 80%;
+}
+.menu-icon {
+  font-size: 24px;
+}
+.mobile-menu {
+  display: none;
+}
+.web-menu {
+  display: flex;
+  width: 98%;
+  margin: auto;
+}
+.logo {
+  display: flex;
+  font-size: 36px;
+  color: blueviolet;
+  font-weight: 800;
+}
+
+form.example input[type="text"] {
+  box-sizing: border-box;
+  /* font-size: 17px; */
+  border: 1px solid grey;
+  float: left;
+  /* width: 80%; */
+  background: white;
+  border-right: none;
+}
+form.example button {
+  box-sizing: border-box;
+  /* float: left; */
+  width: 20%;
+  /* padding: 10px; */
+  background: white;
+  color: black;
+
+  border: 1px solid grey;
+  border-left: none;
+  cursor: pointer;
+}
+
+@media only screen and (max-width: 800px) {
+  .mobile-menu {
+    display: flex;
+  }
+  .web-menu {
+    display: none;
+    font-size: 10px;
+  }
+
+  .logo {
+    font-size: 24px;
+  }
+}
+
+.input-icons i {
+  position: absolute;
+}
+
+.input-icons {
+  width: 110%;
+  margin-bottom: 10px;
+  margin-right: 4px;
+}
+
+.icon {
+  padding: 5px;
+  font-size: 15px;
+  min-width: 5px;
+  margin-left: -25px;
+}
+
+.input-field {
+  width: 96%;
+  padding-top: 6px;
+  text-align: left;
+  align-self: center;
+  border: 1px solid lightgrey;
+  padding: 5px 10px;
+  margin-left: -20px;
+}
+@media only screen and (max-width: 970px) {
+  .input-field {
+    display: none;
+  }
+}
+
+.alert-enter {
+  opacity: 0;
+  transform: scale(0.9);
+}
+.alert-enter-active {
+  opacity: 1;
+  transform: translateX(0);
+  transition: opacity 300ms, transform 300ms;
+}
+.alert-exit {
+  opacity: 1;
+}
+.alert-exit-active {
+  opacity: 0;
+  transform: scale(0.9);
+  transition: opacity 300ms, transform 300ms;
+}
+
+.zuzu {
+  height: 100%;
+}
+@media only screen and (max-width: 950px) {
+  .web-menu a {
+    font-size: 13px;
+  }
+}

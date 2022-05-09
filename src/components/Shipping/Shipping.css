@@ -1,0 +1,28 @@
+.in{
+    width:40vw;
+    height: 7vh;
+    margin: 5px;
+    border: 2px light gray;
+}
+.button{
+    width:15vw;
+    height: 5vh;
+    color: white;
+    background-color: black;
+    cursor: pointer;
+}
+p{
+    color: #787775;
+}
+.checkoutImage{
+    width: 500px;
+    height: 600px;
+    /* border: 1px solid red; */
+}
+.bigger{
+    width: 95vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    /* border: 1px solid red; */
+}

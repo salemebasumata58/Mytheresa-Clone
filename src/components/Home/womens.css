@@ -1,0 +1,226 @@
+* {
+  font-family: Futura-Medium, Century Gothic, Gill Sans, Helvetica, Arial,
+    sans-serif;
+  text-align: center;
+}
+
+.main_img {
+  width: 90%;
+  margin: auto;
+  justify-content: center;
+  text-align: center;
+}
+
+.ha4 {
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 400;
+  color: #000;
+}
+
+.btnnew {
+  margin-left: -3%;
+}
+
+/* Margin top */
+
+.mt {
+  margin-top: 3%;
+}
+
+.banner1 {
+  cursor: pointer;
+  background-color: #f6f6f6;
+  padding: 30px 30px;
+  border: 1px solid rgb(192, 188, 188);
+  width: 86%;
+  margin: auto;
+  height: 220px;
+  margin-top: 20px;
+  padding-bottom: 4%;
+}
+.ha1 {
+  font-size: 38px;
+  margin-bottom: 0.67em;
+  margin-bottom: 0.1em;
+  max-width: 580px;
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 1.3em;
+  letter-spacing: 0.8px;
+  line-height: 1.3em;
+  color: #000;
+  font-weight: 400;
+}
+.ha5 {
+  line-height: 22px;
+  padding: 0 80px;
+  font-weight: 400;
+  text-transform: none;
+  line-height: 26px;
+  padding: 0 35px;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  color: #000;
+}
+.left {
+  /* border: 5px solid red; */
+  background-color: white;
+}
+h3 {
+  font-size: 15px;
+  text-transform: uppercase;
+  font-weight: 400;
+  margin-top: 0;
+  color: #000;
+}
+.start > button {
+  color: white;
+}
+.left > .btn-shop,
+.btn-shop {
+  margin-top: 30px;
+  width: auto;
+  color: #fff;
+  background-color: #000;
+  border-color: #000;
+  display: inline-block;
+  text-align: center;
+  font-size: 12px;
+  letter-spacing: 1.2px;
+  line-height: 17px;
+  text-transform: uppercase;
+  padding: 10px 20px;
+  border: none;
+  text-align: center;
+  cursor: pointer;
+  transition: background-color 0.4s ease-out, border-color 0.4s ease-out,
+    color 0.4s ease-out;
+}
+.start {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+.left {
+  width: 45%;
+}
+hr {
+  margin-top: 40px;
+  width: 84%;
+  color: #cecece;
+}
+.second {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+.third-img {
+  display: flex;
+  width: 80%;
+  box-sizing: inherit;
+  margin: auto;
+}
+.img1 {
+  width: 85%;
+  height: 85%;
+  padding: 10px;
+}
+.shop-now {
+  margin-top: 50px;
+  color: #fff;
+  background-color: #000;
+  border-color: #000;
+  display: inline-block;
+  text-align: center;
+  font-size: 12px;
+  letter-spacing: 1.2px;
+  line-height: 17px;
+  text-transform: uppercase;
+  padding: 10px 20px;
+  border: none;
+  text-align: center;
+  cursor: pointer;
+  transition: background-color 0.4s ease-out, border-color 0.4s ease-out,
+    color 0.4s ease-out;
+}
+.p-tag {
+  font-size: 13px;
+  line-height: 16px;
+  letter-spacing: 0.8px;
+  color: #000;
+}
+a {
+  font-size: 13px;
+  color: #000;
+  text-decoration: none;
+  background-color: transparent;
+  transition: color 0.4s ease-out;
+  cursor: pointer;
+  text-decoration: underline;
+  line-height: 16px;
+  letter-spacing: 0.8px;
+}
+.col-1 {
+  padding: 20px 0;
+  width: 49.1525423729%;
+  float: left;
+  /* margin-right: 1.6949152542%; */
+  font-size: 13px;
+  line-height: 16px;
+  letter-spacing: 0.8px;
+  color: #000;
+  margin-left: 20px;
+}
+/* .col-1 .col-set{
+    width: 49.1525423729%;
+    float: left;
+    margin-right: 1.6949152542%;
+} */
+ul {
+  list-style: disc;
+  font-size: 12px;
+  line-height: 16px;
+  padding: 0;
+  margin-top: 0;
+  display: block;
+  list-style-type: disc;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-inline-start: 40px;
+  margin-left: 17px;
+}
+.col-set {
+  display: flex;
+}
+.text_below {
+  width: 80%;
+  margin: auto;
+  /* border: 1px solid red; */
+}
+.text_below > h2 {
+  text-align: center;
+  font-size: 15px;
+  text-transform: uppercase;
+  font-weight: 400;
+  letter-spacing: 0.8px;
+  color: #000;
+}
+.text_below > p {
+  letter-spacing: 0.8px;
+  color: #000;
+  font-size: 12px;
+  line-height: 16px;
+  text-align: left;
+}
+.exp_quality {
+  display: flex;
+  text-align: left;
+  letter-spacing: 0.8px;
+  color: #000;
+  font-size: 12px;
+  line-height: 16px;
+  text-align: left;
+}

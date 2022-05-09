@@ -1,0 +1,22 @@
+
+.App2 {
+  font-family: sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  width: 1400px;
+  margin-left: -90%;
+}
+/* .App2{
+  font-family: sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  width: 1000px;
+  border: 3px solid red;
+} */
+.App2 img {
+  width: 250px;
+}

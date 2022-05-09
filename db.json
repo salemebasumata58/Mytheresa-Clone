@@ -1,0 +1,534 @@
+[
+    {
+        "name": "Mini Nash Face cotton T-shirt",
+        "brandName": "ALEXANDER MCQUEEN",
+        "price": 45,
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "images": {
+            "img1": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/92/P00686241.jpg",
+            "img2": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/92/P00686241_b1.jpg",
+            "img3": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/92/P00686241_d4.jpg",
+            "img4": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/92/P00686241_d3.jpg"
+        },
+        "itemNo": "P00686241",
+        "type": [
+            "T-Shirt",
+            "Western",
+            "Top Wear"
+        ],
+        "color": "Blue",
+        "quant": 1
+    },
+    {
+        "name": "Polyfaille minidress",
+        "brandName": "ALEXANDER MCQUEEN",
+        "price": 1690,
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "images": {
+            "img1": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/e6/P00644088.jpg",
+            "img2": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/e6/P00644088_b1.jpg",
+            "img3": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/e6/P00644088_b2.jpg",
+            "img4": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/e6/P00644088_d1.jpg"
+        },
+        "itemNo": " P00644088",
+        "type": [
+            "Western",
+            "Top Wear",
+            "Mini Dress",
+            "Skirt"
+        ],
+        "color": "Blue",
+        "quant": 1
+    },
+    {
+        "name": "Floral cutout maxi dress",
+        "brandName": "ETRO",
+        "price": 3416,
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "images": {
+            "img1": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/56/P00652346.jpg",
+            "img2": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/56/P00652346_b1.jpg",
+            "img3": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/56/P00652346_b2.jpg",
+            "img4": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/56/P00652346_d1.jpg"
+        },
+        "itemNo": "P00652346",
+        "type": [
+            "Western",
+            "Top Wear",
+            "Skirt"
+        ],
+        "color": "Orange",
+        "quant": 1
+    },
+    {
+        "name": "Cutout halterneck minidress",
+        "brandName": "ETRO",
+        "price": 1490,
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "images": {
+            "img1": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/e0/P00641425.jpg",
+            "img2": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/e0/P00641425_b1.jpg",
+            "img3": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/e0/P00641425_b2.jpg",
+            "img4": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/e0/P00641425_d1.jpg"
+        },
+        "itemNo": "P00641425",
+        "type": [
+            "Western",
+            "Top Wear",
+            "Mini Dress",
+            "Skirt"
+        ],
+        "color": "Black",
+        "quant": 1
+    },
+    {
+        "name": "Cerna off-shoulder midi dress",
+        "brandName": "KHAITE",
+        "price": 1560,
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "images": {
+            "img1": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/ca/P00661276.jpg",
+            "img2": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/ca/P00661276_b1.jpg",
+            "img3": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/ca/P00661276_b2.jpg",
+            "img4": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/ca/P00661276_d1.jpg"
+        },
+        "itemNo": "P00661276",
+        "type": [
+            "Western",
+            "Top Wear",
+            "Mini Dress",
+            "Skirt"
+        ],
+        "color": "White",
+        "quant": 1
+    },
+    {
+        "name": "Jaclyn crêpe minidress",
+        "brandName": "KHAITE",
+        "price": 355,
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "images": {
+            "img1": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/7d/P00665679.jpg",
+            "img2": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/7d/P00665679_b1.jpg",
+            "img3": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/7d/P00665679_b2.jpg",
+            "img4": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/7d/P00665679_d1.jpg"
+        },
+        "itemNo": "P00665679",
+        "type": [
+            "Western",
+            "Top Wear",
+            "Mini Dress",
+            "Skirt"
+        ],
+        "color": "Yellow",
+        "quant": 1
+    },
+    {
+        "name": "'90s Pinch high-rise straight jeans",
+        "brandName": "KHAITE",
+        "price": 290,
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "images": {
+            "img1": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/2e/P00682746.jpg",
+            "img2": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/2e/P00682746_b1.jpg",
+            "img3": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/2e/P00682746_b2.jpg",
+            "img4": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/2e/P00682746_d1.jpg"
+        },
+        "itemNo": "P00682746",
+        "type": [
+            "Western",
+            "Bottom Wear",
+            "Jeans"
+        ],
+        "color": "Blue",
+        "quant": 1
+    },
+    {
+        "name": "High-rise straight jeans",
+        "brandName": "ETRO",
+        "price": 550,
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "images": {
+            "img1": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/77/P00586565.jpg",
+            "img2": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/77/P00586565_b1.jpg",
+            "img3": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/77/P00586565_b2.jpg",
+            "img4": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/77/P00586565_d1.jpg"
+        },
+        "itemNo": "P00586565",
+        "type": [
+            "Western",
+            "Bottom Wear",
+            "Jeans"
+        ],
+        "color": "Black",
+        "quant": 1
+    },
+    {
+        "name": "Piqué jersey striped shorts",
+        "brandName": "GUCCI",
+        "price": 680,
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "images": {
+            "img1": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/3f/P00676835.jpg",
+            "img2": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/3f/P00676835_b1.jpg",
+            "img3": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/3f/P00676835_b2.jpg",
+            "img4": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/3f/P00676835_d1.jpg"
+        },
+        "itemNo": "P00676835",
+        "type": [
+            "Western",
+            "Bottom Wear",
+            "Mini Dress",
+            "Shorts"
+        ],
+        "color": "White",
+        "quant": 1
+    },
+    {
+        "name": "Silk faille shorts",
+        "brandName": "ALEXANDER MCQUEEN",
+        "price": 890,
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "images": {
+            "img1": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/49/P00653435.jpg",
+            "img2": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/49/P00653435_b1.jpg",
+            "img3": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/49/P00653435_b2.jpg",
+            "img4": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/49/P00653435_d1.jpg"
+        },
+        "itemNo": "P00653435",
+        "type": [
+            "Western",
+            "Bottom Wear",
+            "Shorts",
+            "Mini Dress"
+        ],
+        "color": "Yellow",
+        "quant": 1
+    },
+    {
+        "name": "Cotton and linen twill shorts",
+        "brandName": "GUCCI",
+        "price": 290,
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "images": {
+            "img1": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/e5/P00660590.jpg",
+            "img2": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/e5/P00660590_b1.jpg",
+            "img3": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/e5/P00660590_b2.jpg",
+            "img4": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/e5/P00660590_d1.jpg"
+        },
+        "itemNo": "P00660590",
+        "type": [
+            "Western",
+            "Bottom Wear",
+            "Shorts",
+            "Mini Dress"
+        ],
+        "color": "Orange",
+        "quant": 1
+    },
+    {
+        "name": "Padded thong sandals",
+        "brandName": "GANNI",
+        "price": 255,
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "images": {
+            "img1": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/f8/P00661307.jpg",
+            "img2": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/f8/P00661307_b1.jpg",
+            "img3": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/f8/P00661307_d1.jpg",
+            "img4": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/f8/P00661307_d2.jpg"
+        },
+        "itemNo": "P00661307",
+        "type": [
+            "Foot Wear",
+            "Sandal"
+        ],
+        "color": "Blue",
+        "quant": 1
+    },
+    {
+        "name": "GG platform canvas sandals",
+        "brandName": "GUCCI",
+        "price": 590,
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "images": {
+            "img1": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/fb/P00677531.jpg",
+            "img2": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/fb/P00677531_b1.jpg",
+            "img3": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/fb/P00677531_d1.jpg",
+            "img4": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/fb/P00677531_d4.jpg"
+        },
+        "itemNo": "P00677531",
+        "type": [
+            "Sandal",
+            "Foot Wear"
+        ],
+        "color": "White",
+        "quant": 1
+    },
+    {
+        "name": "Balskee suede and leather wedge",
+        "brandName": "ISABEL MARANT",
+        "price": 495,
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "images": {
+            "img1": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/a1/P00629162.jpg",
+            "img2": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/a1/P00629162_b1.jpg",
+            "img3": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/a1/P00629162_d1.jpg",
+            "img4": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/a1/P00629162_d2.jpg"
+        },
+        "itemNo": "P00629162",
+        "type": [
+            "Shoes",
+            "Foot Wear"
+        ],
+        "color": "Black",
+        "quant": 1
+    },
+    {
+        "name": "Brooklee suede sneakers",
+        "brandName": "ISABEL MARANT",
+        "price": 390,
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "images": {
+            "img1": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/10/P00629178.jpg",
+            "img2": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/10/P00629178_b1.jpg",
+            "img3": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/10/P00629178_d1.jpg",
+            "img4": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/10/P00629178_d2.jpg"
+        },
+        "itemNo": "P00629178",
+        "type": [
+            "Shoes",
+            "Foot Wear"
+        ],
+        "color": "Brown",
+        "quant": 1
+    },
+    {
+        "name": "Maelie suede sandals",
+        "brandName": "ADIDAS",
+        "price": 395,
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "images": {
+            "img1": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/10/P00666578.jpg",
+            "img2": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/10/P00666578_b1.jpg",
+            "img3": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/10/P00666578_d1.jpg",
+            "img4": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/10/P00666578_d2.jpg"
+        },
+        "itemNo": "P00666578",
+        "type": [
+            "Flat",
+            "Foot Wear"
+        ],
+        "color": "Brown",
+        "quant": 1
+    },
+    {
+        "name": "Fortune Small suede shoulder bag",
+        "brandName": "NIKE",
+        "price": 1990,
+        "size": [],
+        "images": {
+            "img1": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/af/P00657413.jpg",
+            "img2": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/af/P00657413_b1.jpg",
+            "img3": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/af/P00657413_d1.jpg",
+            "img4": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/af/P00657413_d2.jpg"
+        },
+        "itemNo": "P00657413",
+        "type": [
+            "Bag"
+        ],
+        "color": "Black",
+        "quant": 1
+    },
+    {
+        "name": "Sac De Jour Mini leather tote",
+        "brandName": "ISABEL MARANT",
+        "price": 1750,
+        "size": [
+            
+        ],
+        "images": {
+            "img1": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/e1/P00671874.jpg",
+            "img2": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/e1/P00671874_b1.jpg",
+            "img3": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/e1/P00671874_d1.jpg",
+            "img4": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/e1/P00671874_d2.jpg"
+        },
+        "itemNo": "P00671874",
+        "type": [
+            "Bag"
+        ],
+        "color": "Pink",
+        "quant": 1
+    },
+    {
+        "name": "Callie crystal-embellished satin pouch",
+        "brandName": "GUCCI",
+        "price": 2195,
+        "size": [
+           
+        ],
+        "images": {
+            "img1": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/4e/P00685475.jpg",
+            "img2": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/4e/P00685475_b1.jpg",
+            "img3": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/4e/P00685475_d1.jpg",
+            "img4": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/4e/P00685475_d2.jpg"
+        },
+        "itemNo": "P00685475",
+        "type": [
+            "Bag"
+        ],
+        "color": "Pink",
+        "quant": 1
+    },
+    {
+        "name": "Arco Mini rubber tote",
+        "brandName": "GANNI",
+        "price": 750,
+        "size": [
+            
+        ],
+        "images": {
+            "img1": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/05/P00649594.jpg",
+            "img2": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/05/P00649594_b1.jpg",
+            "img3": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/05/P00649594_d1.jpg",
+            "img4": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/05/P00649594_d2.jpg"
+        },
+        "itemNo": "P00649594",
+        "type": [
+            "Bag"
+        ],
+        "color": "Orange",
+        "quant": 1
+    },
+    {
+        "name": "Roman Stud Large raffia shoulder bag",
+        "brandName": "ETRO",
+        "price": 2500,
+        "size": [],
+        "images": {
+            "img1": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/7a/P00669994.jpg",
+            "img2": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/7a/P00669994_b1.jpg",
+            "img3": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/7a/P00669994_d1.jpg",
+            "img4": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/7a/P00669994_d2.jpg"
+        },
+        "itemNo": "P00669994",
+        "type": [
+            "Bag"
+        ],
+        "color": "Brown",
+        "quant": 1
+    },
+    {
+        "name": "Bonny satin tote bag",
+        "brandName": "KHAITE",
+        "price": 690,
+        "size": [],
+        "images": {
+            "img1": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/94/P00685473.jpg",
+            "img2": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/94/P00685473_b1.jpg",
+            "img3": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/94/P00685473_d1.jpg",
+            "img4": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/94/P00685473_d2.jpg"
+        },
+        "itemNo": "P00685473",
+        "type": [
+            "Bag"
+        ],
+        "color": "Blue",
+        "quant": 1
+    }
+]

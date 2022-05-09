@@ -1,0 +1,143 @@
+
+
+.web{
+    display: flex;
+    flex: 1;
+    align-items: center;
+    justify-content: flex-start;
+    /* border: 1px solid red; */
+    width: 95%;
+    margin: auto;
+    height: 40px;
+    padding: 0 0 0 80px;
+    background-color: #F4F4F4;
+}
+.web-option{
+    font-size: 16px;
+    margin-right: 16px;
+    font-weight: 200;
+    position: relative;
+    display: inline-block;
+    
+}
+.web-option a{
+    text-decoration: none;
+    color: black;
+    display: flex;
+    align-items: center ;
+}
+
+.dropdown-content {
+    display: none;
+    position:absolute;
+    background-color: #f1f1f1;
+    width: 100%;
+    margin-left: -210px;
+    
+    min-width: 900px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+
+  .web-option:hover .dropdown-content{
+      display: block;
+  }
+.option-icon{
+    display: flex;
+    align-items: center;
+    margin-right: 4px;
+}
+.web-option:nth-child(10){
+    border: 1px solid forestgreen;
+    text-align: right;
+   justify-content: flex-end;
+   
+    
+
+}
+.web-option a:hover{
+    text-decoration: underline;
+    text-underline-position: below;
+}
+.web-option:last-child{
+   right: 0;
+}
+.web-option:last-child{
+    float: right;
+}
+
+
+/* ------------- */
+.navbar {
+    background: linear-gradient(90deg, rgb(28, 27, 27) 0%, rgb(26, 23, 23) 100%);
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+  }
+  
+  .navbar-logo {
+    color: #fff;
+    justify-self: start;
+    margin-left: 20px;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 2rem;
+  }
+  
+  .fa-firstdraft {
+    margin-left: 0.5rem;
+    font-size: 1.6rem;
+  }
+  
+  .nav-menu {
+    display: grid;
+    grid-template-columns: repeat(5, auto);
+    grid-gap: 10px;
+    list-style: none;
+    text-align: center;
+    width: 70vw;
+    justify-content: end;
+    margin-right: 2rem;
+  }
+  
+  .nav-item {
+    display: flex;
+    align-items: center;
+    height: 80px;
+  }
+  
+  .nav-links {
+    color: white;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+  }
+  
+  .nav-links:hover {
+    background-color: #1888ff;
+    border-radius: 4px;
+    transition: all 0.2s ease-out;
+  }
+  
+  .fa-bars {
+    color: #fff;
+  }
+  
+  .nav-links-mobile {
+    display: none;
+  }
+  
+  .menu-icon {
+    display: none;
+  }
+
+  /* .dropbtn{
+    display: flex;
+  } */

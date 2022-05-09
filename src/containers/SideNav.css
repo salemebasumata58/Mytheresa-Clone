@@ -1,0 +1,18 @@
+.brands,.category,.colors{
+    list-style: none;
+    color: rgb(148, 145, 145);
+}
+input[type="checkbox"]{
+    padding: 0px 17px;
+    width: 30vw;
+}
+.SideNavItems{
+    width: 20%;
+    padding: 0;
+    margin: 0px 0px 0px 15px;
+}
+.SideNavItems>div{
+    margin: 20px 0px;
+    border-bottom: 1px solid rgb(198, 198, 198);
+    padding: 10px;
+};
